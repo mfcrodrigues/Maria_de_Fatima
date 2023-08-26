@@ -1,12 +1,12 @@
-# Oiiii, me chamo Maria de Fatima Rodrigues
+# Fatima Rodrigues
 
-## Buscando novos desfios e me aventurando na programação.
+## Buscando novos desafios, me aventurando na programação.
 
 Estou estudando linguagem Python.
 Ainda não estou trabalhando na área.
 
 
-Pro futuro espero que o Back End me abrace e nos apaixone.
+Para o futuro espero que a programçaõ me abrace, e nos apaixone, que seja uma relação mútua .
 
 
 ## Tecnologia
