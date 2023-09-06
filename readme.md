@@ -6,7 +6,7 @@ Estou estudando linguagem Python.
 Ainda não estou trabalhando na área.
 
 
-Para o futuro espero que a programçaõ me abrace, e nos apaixone, que seja uma relação mútua .
+Para o futuro espero que a programção me abrace, e nos apaixone, que seja uma relação mútua .
 
 
 ## Tecnologia
